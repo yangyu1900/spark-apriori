@@ -1,0 +1,101 @@
+id, age, gender, postcode, diseases, drug_response
+patient0,56,m,4133,hemophilia,99.62
+patient1,36,m,3456,wilson-disease,21.17
+patient2,15,m,5124,hepatitis-C breast-cancer,79.04
+patient3,34,m,3123,leukemia immunodeficiency,40.06
+patient4,91,m,3069,malaria,97.92
+patient5,90,m,2079,breast-cancer,77.53
+patient6,63,f,6378,progeria,44.95
+patient7,61,m,3434,pancreatic-cancer parkinson,66.70
+patient8,83,m,2938,hepatitis-C liver-cirrhosis,34.08
+patient9,54,f,6518,leukemia,57.96
+patient10,82,f,6962,lymphoma alzheimer,99.24
+patient11,65,m,2793,dystonia malaria,53.33
+patient12,76,m,3743,hemophilia progeria,33.19
+patient13,37,f,3094,breast-cancer prostate-cancer,1.05
+patient14,39,m,6714,crouzon-syndrome progeria,70.80
+patient15,35,m,2770,wilson-disease pancreatic-cancer cerebral-palsy,36.00
+patient16,94,f,3223,leukemia cerebral-palsy,69.31
+patient17,70,f,4706,lymphoma immunodeficiency osteoporosis,61.80
+patient18,39,m,5102,pancreatic-cancer osteoporosis,15.60
+patient19,83,m,4202,hepatitis-C leukemia diabetes,81.36
+patient20,47,f,5126,asthma malaria,34.25
+patient21,92,f,5222,hemophilia diabetes,11.77
+patient22,34,f,2081,lymphoma cerebral-palsy,53.29
+patient23,70,f,2248,breast-cancer lymphoma asthma,52.76
+patient24,27,m,2523,lymphoma malaria parkinson,43.54
+patient25,59,m,4238,lymphoma diabetes,19.69
+patient26,50,m,6423,lymphoma crouzon-syndrome diabetes,39.14
+patient27,47,f,2329,liver-cirrhosis cerebral-palsy,84.96
+patient28,33,m,4354,crouzon-syndrome osteoporosis,95.90
+patient29,24,m,6985,pancreatic-cancer diabetes,21.37
+patient30,15,f,5207,parkinson diabetes,85.50
+patient31,19,m,5548,breast-cancer,59.60
+patient32,54,m,6951,parkinson diabetes,11.89
+patient33,85,m,3972,hepatitis-C lymphoma parkinson,20.43
+patient34,22,f,6796,malaria diabetes,36.95
+patient35,32,f,6226,immunodeficiency,62.82
+patient36,44,f,2740,liver-cirrhosis parkinson diabetes,24.69
+patient37,39,f,5441,lymphoma,91.56
+patient38,32,m,5297,asthma,22.93
+patient39,22,m,6891,multiple-sclerosis,38.13
+patient40,33,m,3746,hemophilia,85.96
+patient41,35,f,5257,malaria,99.98
+patient42,39,f,4549,diabetes,10.10
+patient43,36,m,3534,progeria,9.42
+patient44,15,m,2940,lymphoma,15.43
+patient45,34,f,6101,asthma,42.78
+patient46,81,m,2530,hemophilia,67.30
+patient47,82,m,5662,hemophilia,34.11
+patient48,61,f,5433,leukemia,88.27
+patient49,35,m,2505,dystonia,64.50
+patient50,50,f,6863,leukemia liver-cirrhosis,0.25
+patient51,89,f,6480,lymphoma,8.05
+patient52,95,f,6377,breast-cancer,63.67
+patient53,49,f,3718,hepatitis-C lymphoma wilson-disease,55.24
+patient54,46,m,2040,crouzon-syndrome prostate-cancer hemophilia,67.33
+patient55,23,f,3494,asthma alzheimer,18.85
+patient56,36,m,3169,crouzon-syndrome immunodeficiency,52.41
+patient57,87,f,2086,leukemia liver-cirrhosis,44.97
+patient58,87,m,6403,hemophilia,90.62
+patient59,29,f,2967,lymphoma immunodeficiency,63.58
+patient60,18,m,3923,malaria,14.14
+patient61,52,f,5790,cerebral-palsy parkinson,98.11
+patient62,89,f,5820,hepatitis-C wilson-disease,75.36
+patient63,15,m,3594,dystonia lymphoma,27.07
+patient64,67,f,3065,multiple-sclerosis leukemia hemophilia,51.97
+patient65,74,f,3893,osteoporosis,14.67
+patient66,21,m,2144,cerebral-palsy,23.30
+patient67,24,f,3725,wilson-disease,51.36
+patient68,25,f,5874,progeria diabetes osteoporosis,89.15
+patient69,82,m,5988,lymphoma liver-cirrhosis,77.18
+patient70,71,m,4218,prostate-cancer progeria,7.57
+patient71,48,f,4481,dystonia prostate-cancer osteoporosis,85.36
+patient72,67,f,2487,dystonia alzheimer,82.51
+patient73,56,m,5722,liver-cirrhosis,95.06
+patient74,94,m,4418,asthma hemophilia,72.92
+patient75,53,m,5207,breast-cancer crouzon-syndrome,66.13
+patient76,23,f,2937,prostate-cancer progeria,1.94
+patient77,95,f,5841,hepatitis-C,21.39
+patient78,25,m,3852,pancreatic-cancer prostate-cancer diabetes,25.37
+patient79,64,m,5053,cerebral-palsy osteoporosis,38.01
+patient80,53,m,5071,prostate-cancer progeria,98.41
+patient81,80,m,6971,multiple-sclerosis asthma malaria,48.73
+patient82,35,f,6955,alzheimer hemophilia,79.00
+patient83,63,f,4622,hepatitis-C asthma prostate-cancer,51.96
+patient84,18,f,2381,immunodeficiency,83.70
+patient85,19,m,2774,breast-cancer prostate-cancer,92.54
+patient86,63,m,3845,lymphoma malaria diabetes,26.82
+patient87,69,f,6178,crouzon-syndrome,98.31
+patient88,36,m,5465,dystonia diabetes,18.40
+patient89,72,f,3929,breast-cancer osteoporosis,70.37
+patient90,58,m,5012,pancreatic-cancer,35.94
+patient91,48,f,6231,alzheimer hemophilia,39.12
+patient92,57,m,6967,parkinson malaria hemophilia,95.28
+patient93,90,f,2546,hemophilia parkinson progeria,93.92
+patient94,17,m,2796,liver-cirrhosis cerebral-palsy,75.66
+patient95,46,m,6337,lymphoma multiple-sclerosis,23.54
+patient96,80,f,4366,pancreatic-cancer cerebral-palsy,51.81
+patient97,53,m,3124,lymphoma alzheimer osteoporosis,25.68
+patient98,20,f,4280,lymphoma malaria,87.11
+patient99,20,f,2426,liver-cirrhosis,76.74
