@@ -12,12 +12,12 @@ data/
 requirements.txt
 
 ## Files
-+ code/num_of_cancer_patients_per_cancer_type.py: Script to count the number of cancer patients with certain active genes per cancer type.
-+ code/frequent_itemsets.py: Script to find frequent itemsets of expressed genes in cancer patients.
-+ data/GeneMetaData.txt: Metadata about genes.
-+ data/GEO.txt: Gene expression data.
-+ data/PatientMetaData.txt: Metadata about patients.
-+ requirements.txt: List of dependencies required to run the project.
++ `code/num_of_cancer_patients_per_cancer_type.py`: Script to count the number of cancer patients with certain active genes per cancer type.
++ `code/frequent_itemsets.py`: Script to find frequent itemsets of expressed genes in cancer patients.
++ `data/GeneMetaData.txt`: Metadata about genes.
++ `data/GEO.txt`: Gene expression data.
++ `data/PatientMetaData.txt`: Metadata about patients.
++ `requirements.txt`: List of dependencies required to run the project.
 
 ## Setup
 1. Install the required dependencies:
